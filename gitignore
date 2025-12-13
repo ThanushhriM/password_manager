@@ -1,7 +1,14 @@
 # Sensitive files
-master.key
 master.pass
+master.key
 data/vault.enc
 
 # Python cache
 __pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
