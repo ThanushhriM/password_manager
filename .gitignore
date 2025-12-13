@@ -1,0 +1,7 @@
+# Sensitive files
+master.key
+master.pass
+data/vault.enc
+
+# Python cache
+__pycache__/
